@@ -2,7 +2,7 @@
 Personal repo for keeping track of a disorganized and disjointed collection of data wrangling related bash scripts.
 
 ##### usgs-ned.sh
-For daisy-chaining [USGS National Elevation Dataset](http://nationalmap.gov/elevation.html) (NED) rasters once they've been sorted into folders by location (e.g. folder structure /**n42**/n42w123). Have not yet added handlers for running this without first sorting by location, that's on the task queue. This is for the most part being used on a per-state demo basis, so it works fine as is for now.
+For daisy-chaining [USGS National Elevation Dataset](http://nationalmap.gov/elevation.html) (NED) rasters once they've been sorted into folders by location (e.g. folder structure /**n42**/n42w123). Have not yet added handlers for running this without first sorting by location, that's on the task queue.
 
 
 ##### usgs-elev_unzip.sh
